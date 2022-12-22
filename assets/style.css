@@ -12,7 +12,6 @@ nav .nav-inner{
     margin: 0px auto;
     clear: both;
     overflow: hidden;
-    border: 1px solid black;
 }
 .nav-inner .logo{
     width: 30%;
